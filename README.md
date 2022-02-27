@@ -2,7 +2,7 @@
 
 ![project overview](images/preview.png)
 
-# live Demo [here 👈](https://jubaerahmad.github.io/css-note-listing-design/)
+# live Demo [here 👈](https://jubaerahmad.github.io/css-claymorphism-card-design/)
 
 ## 2022 UI Trend.This is the game of box-shadow and color property. This design is so easy if you can catch the tricks
 
